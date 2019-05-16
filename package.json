@@ -1,0 +1,23 @@
+{
+  "name": "projects_node",
+  "version": "1.0.0",
+  "description": "fullstack javascript dummy package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codehub",
+    "regeneration",
+    "fullstack",
+    "javascript"
+  ],
+  "author": "Thanasis Chatzipaschalis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "webpack": "^4.31.0"
+  }
+}
